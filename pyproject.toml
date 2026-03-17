@@ -1,0 +1,7 @@
+[project]
+name = "hertie-dsa-26-classroom-homework-2-dsa-flask-app-calculator"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "flask>=3.1.3",
+]
